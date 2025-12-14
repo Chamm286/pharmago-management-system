@@ -80,6 +80,47 @@ Hệ thống tập trung vào:
 
 ---
 
+## Giao diện hệ thống
+
+### Trang đăng nhập
+![Login](screenshots/login.png)
+
+### Trang chủ
+![Home](screenshots/home.png)
+
+### Danh sách sản phẩm
+![Products](screenshots/products.png)
+
+### Giỏ hàng
+![Cart](screenshots/cart.png)
+
+---
+
+## Giao diện quản trị (Admin Dashboard)
+
+### Tổng quan hệ thống
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Quản lý sản phẩm
+![Admin Products](screenshots/admin-products.png)
+
+### Quản lý danh mục
+![Admin Categories](screenshots/admin-categories.png)
+
+### Quản lý đơn hàng
+![Admin Orders](screenshots/admin-orders.png)
+
+### Quản lý người dùng
+![Admin Users](screenshots/admin-users.png)
+
+### Quản lý tồn kho
+![Admin Inventory](screenshots/admin-inventory.png)
+
+### Báo cáo – thống kê
+![Admin Reports](screenshots/admin-reports.png)
+
+---
+
 ## 6. Kiến trúc và mô hình hệ thống
 
 Hệ thống được xây dựng theo mô hình **MVC (Model – View – Controller)**:
